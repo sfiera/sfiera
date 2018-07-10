@@ -7,6 +7,6 @@ sfiera.png_
 sfiera.asc_
     PGP key. I mostly don’t use this.
 
-..  _sfiera.vcf: sfiera.vcf
-..  _sfiera.png: sfiera.png
-..  _sfiera.asc: sfiera.asc
+..  _sfiera.vcf: https://github.com/sfiera/id/raw/master/sfiera.vcf
+..  _sfiera.png: https://github.com/sfiera/id/raw/master/sfiera.png
+..  _sfiera.asc: https://github.com/sfiera/id/raw/master/sfiera.asc
