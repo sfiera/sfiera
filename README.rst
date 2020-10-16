@@ -7,13 +7,17 @@
 
 Some PuzzleScript games I wrote:
 
-* |ranger|_ (2014), based on Jonah Ostroff’s original games (|heroes|_ |heroes2|_ |heroes3|_)
+* |ranger|_ (2014)
+
+  * based on `Jonah Ostroff`_’s original Heroes of Sokoban (|heroes|_/|heroes2|_/|heroes3|_)
+
 * |laser|_ (2018)
 * |queens|_ (2020)
 * |four|_ (2020)
 
 .. |ranger| replace:: Heroes of Sokoban and Other Tales: The Ranger
 .. _ranger: http://www.puzzlescript.net/play.html?p=23f51195601e97c80e9d
+.. _Jonah Ostroff: http://sites.math.washington.edu/~ostroff/puzzles.html
 .. |heroes| replace:: I
 .. _heroes: http://www.puzzlescript.net/play.html?p=6860122
 .. |heroes2| replace:: II
