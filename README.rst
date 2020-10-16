@@ -7,13 +7,19 @@
 
 Some PuzzleScript games I wrote:
 
-* |ranger|_ (2014)
+* |ranger|_ (2014), based on Jonah Ostroff’s original games (|heroes|_ |heroes2|_ |heroes3|_)
 * |laser|_ (2018)
 * |queens|_ (2020)
 * |four|_ (2020)
 
 .. |ranger| replace:: Heroes of Sokoban and Other Tales: The Ranger
 .. _ranger: http://www.puzzlescript.net/play.html?p=23f51195601e97c80e9d
+.. |heroes| replace:: I
+.. _heroes: http://www.puzzlescript.net/play.html?p=6860122
+.. |heroes2| replace:: II
+.. _heroes2: http://www.puzzlescript.net/play.html?p=6910207
+.. |heroes3| replace:: III
+.. _heroes3: http://www.puzzlescript.net/play.html?p=7072276
 .. |laser| replace:: Hey you! Stop blocking the laser!
 .. _laser: http://www.puzzlescript.net/play.html?p=3df1b85582d3d6fc4f24
 .. |queens| replace:: Mad Queens
