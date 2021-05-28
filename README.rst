@@ -5,7 +5,7 @@
 .. _sfiera.png: https://github.com/sfiera/sfiera/raw/master/sfiera.png
 .. _sfiera.asc: https://github.com/sfiera/sfiera/raw/master/sfiera.asc
 
-Some PuzzleScript games I wrote:
+Some PuzzleScript_ games I wrote:
 
 .. image:: https://github.com/sfiera/sfiera/raw/master/icons/ranger.svg
    :target: http://www.puzzlescript.net/play.html?p=23f51195601e97c80e9d
@@ -30,3 +30,5 @@ Some PuzzleScript games I wrote:
    :width: 48
    :height: 48
    :alt: Tour de Four (2020)
+
+.. _PuzzleScript: https://github.com/increpare/PuzzleScript
