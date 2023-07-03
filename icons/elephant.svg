@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+                     "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <path d="M0,0h12v12h-12z" fill="#badbed"/>
+  <path d="M3,9h2v2h-2z" fill="#6b7174"/>
+  <path d="M0,1h7v1h1v4h1v-3h2v5h-5v1h-3v2h-2v-2h-1z" fill="#9d9d9d"/>
+  <path d="M6,4h1v1h-1z" fill="black"/>
+  <path d="M0,0h1v1h-1z" fill="#6a2e32"/>
+  <path d="M1,0h11v1h-11z" fill="#9b6730"/>
+  <path d="M11,1h1v4h-1z" fill="#accd4a"/>
+  <path d="M11,5h1v1h-1z" fill="#34474d"/>
+  <path d="M0,11h12v1h-12z" fill="#55872f"/>
+</svg>

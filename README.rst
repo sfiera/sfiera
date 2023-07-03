@@ -31,4 +31,10 @@ Some PuzzleScript_ games I wrote:
    :height: 48
    :alt: Tour de Four (2020)
 
+.. image:: https://github.com/sfiera/sfiera/raw/master/icons/elephant.svg
+   :target: https://www.puzzlescript.net/play.html?p=344552b9b5d24d3f5142ca13bd6369e9
+   :width: 48
+   :height: 48
+   :alt: A Room for Elephant (2021)
+
 .. _PuzzleScript: https://github.com/increpare/PuzzleScript
