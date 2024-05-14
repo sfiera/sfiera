@@ -10,13 +10,13 @@ Some PuzzleScript_ games I wrote:
 |ranger| |laser| |queens| |four| |elephant|
 
 .. |ranger| image:: https://github.com/sfiera/sfiera/raw/master/icons/ranger.svg
-   :target: http://www.puzzlescript.net/play.html?p=23f51195601e97c80e9d
+   :target: https://www.puzzlescript.net/play.html?p=23f51195601e97c80e9d
    :width: 48
    :height: 48
    :alt: Heroes of Sokoban and Other Tales: The Ranger (2014)
 
 .. |laser| image:: https://github.com/sfiera/sfiera/raw/master/icons/laser.svg
-   :target: http://www.puzzlescript.net/play.html?p=3df1b85582d3d6fc4f24
+   :target: https://www.puzzlescript.net/play.html?p=3df1b85582d3d6fc4f24
    :width: 48
    :height: 48
    :alt: Hey you! Stop blocking the laser! (2018)
